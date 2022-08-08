@@ -1,0 +1,1 @@
+from airconcontroller.controllers.panasonic import Panasonic
